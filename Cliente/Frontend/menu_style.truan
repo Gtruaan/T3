@@ -1,0 +1,74 @@
+QWidget {
+    background-color: #292929;
+}
+
+QPushButton {
+    background-color: whitesmoke;
+    color: #292929;
+    border-style: inset;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: whitesmoke;
+    font: bold 14px;
+    padding: 4px;
+}
+
+QPushButton:hover {
+    background-color: #575757;
+    color: whitesmoke;
+}
+
+QLineEdit {
+    background-color: whitesmoke;
+    color: #292929;
+    border-radius: 10px;
+    min-width: 10em;
+    padding: 4px;
+}
+
+QLabel {
+    background-color: none;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+QLabel#title {
+    font-weight: bold;
+    font-size: 13pt;
+}
+
+QLabel#user_card {
+    background-color: whitesmoke;
+    border-style: outset;
+    border-radius: 10px;
+    border-color: rgb(48, 48, 48);
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+QLabel#titulo {
+    background-color: #423856;
+    color: whitesmoke;
+    border-style: outset;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 13pt;
+}
+
+QLabel#member_card_label {
+    background-color: whitesmoke;
+    border-style: outset;
+    border-width: 4px;
+    border-color: rgb(0, 97, 158);
+    border-radius: 10px;
+}
+
+QLabel#member_card_text { color: black;
+}
+
+QRadioButton {
+    color: whitesmoke;
+    font: bold 14px;
+    min-width: 10em;
+    padding: 4px;
+}

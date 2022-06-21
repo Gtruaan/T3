@@ -1,0 +1,10 @@
+{
+    "HOST" : "localhost",
+    "PORT" : 47365,
+    
+    "START_HEIGHT" : 420,
+    "START_WIDTH" : 530,
+
+    "GAME_HEIGHT" : 650,
+    "GAME_WIDTH" : 750
+}
